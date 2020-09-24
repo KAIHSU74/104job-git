@@ -1,5 +1,5 @@
 # 104人力銀行--使用關鍵字搜尋職缺爬取職務資訊
- 
+# 程式語言: Python
 # 程式執行:
    1. 讀取設定檔 104job.conf
    2. 讀取設定檔 keyword、city、updatetime 內容
